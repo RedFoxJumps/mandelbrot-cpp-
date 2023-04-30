@@ -1,0 +1,7 @@
+docs/
+doc/
+examples/
+x64/
+bin/
+obj/
+.vs/
